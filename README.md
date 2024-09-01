@@ -46,7 +46,7 @@ The dataset was cleaned by handling missing values, correcting data types, and r
 
 ## Visualizations
 
-The project includes various visualizations, such as bar charts, line graphs, and scatter plots, to illustrate the findings clearly and effectively.
+The project includes various visualizations, such as bar charts and line graphs, to illustrate the findings clearly and effectively.
 
 ## How to Use the Code
 
